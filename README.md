@@ -93,6 +93,8 @@ The paper hints towards blur diffusion only overtaking less blurry diffusion aft
 
 ## Citation
 
+This repo was created by [prateksha](https://github.com/prateksha) and [soumik-kanad](https://github.com/soumik-kanad). Please condider giving us a ⭐ if you find it useful. 
+
 If you use the code in this repository for your research, please cite the paper as follows:
 
 ```bibtex
@@ -110,3 +112,4 @@ url={https://openreview.net/forum?id=OjDkC57x5sz}
 
 This software is provided under the [MIT license](LICENSE).
 
+This repository has been forked from [AaltoML/generative-inverse-heat-dissipation](https://github.com/AaltoML/generative-inverse-heat-dissipation) which is also provided under the [MIT icense](https://github.com/AaltoML/generative-inverse-heat-dissipation/blob/main/LICENSE).
